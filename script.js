@@ -14,7 +14,8 @@ infelizmente não deseja somar os números
 // Se ele confirmar -> pedir um número e  criar um loop de repetição para somar 
 // os números entre 0 e o número dado. Mostrar o resultado da soma.
 // Se não confirmar, exibir a mensagem: Você infelizmente não deseja somar os números.
-if (confirm('Deseja somar os números?') === true) {
+
+/*if (confirm('Deseja somar os números?') === true) {
     let numero = Number(prompt('Digite um número'))
     let i = 0;
     let soma = 0;
@@ -25,4 +26,4 @@ if (confirm('Deseja somar os números?') === true) {
     console.log(soma)
 } else {
     console.log('Você infelizmente não deseja somar os números')
-}
+}*/
